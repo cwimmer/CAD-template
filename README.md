@@ -32,6 +32,7 @@ TODO: Change link to this repo
 
 1. Unless otherwise specified, dimensions are in millimeters.
 2. The CAD diagrams in the CAD directory are the authoritative definition of this assembly.
+3. Standard hardware (screws, nuts, washers, T-nuts, etc.) is **not modeled** in the CAD assemblies. Holes, clearances, and interfaces are shown; the fasteners themselves are specified in [`BOM.md`](./BOM.md) and [`ASSEMBLY.md`](./ASSEMBLY.md). If there is ever a conflict, treat `BOM.md` as the source of truth for hardware type and quantity.
 TODO: Adjust notes as needed
 
 ## License
