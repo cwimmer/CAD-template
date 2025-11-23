@@ -9,7 +9,7 @@ TODO: Add an overall rendered image of design
 Please use the [latest released version](https://github.com/cwimmer/CAD-template/releases/latest).  The main branch might have partial changes committed.
 TODO: Change link to this repo
 
-## Tools and Skills required
+## Capabilities required
 
 - Example 1
 - Example 2
