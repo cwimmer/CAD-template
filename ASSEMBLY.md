@@ -1,6 +1,7 @@
 # Assembly Instructions
 
 Refer to the [CAD](CAD) diagrams for detailed part orientation.
+TODO: Step by step assembly instructions.  Refer to parts by the part number in the BOM.  Also refer to parts by their common name.
 
 ## Sub part 1
 
