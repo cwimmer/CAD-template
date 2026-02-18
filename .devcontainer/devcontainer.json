@@ -6,7 +6,8 @@
         "slevesque.vscode-3dviewer",
         "davidanson.vscode-markdownlint",
         "appliedengdesign.vscode-gcode-syntax",
-        "tomoki1207.pdf"
+        "tomoki1207.pdf",
+        "davidanson.vscode-markdownlint"
       ],
       "settings": {
         "go.toolsManagement.autoUpdate": true

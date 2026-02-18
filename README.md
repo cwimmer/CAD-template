@@ -25,6 +25,7 @@ TODO: Change link to this repo
 - [Material Defaults](MATERIAL_DEFAULTS.md) - Descriptions of materials where not otherwise specified.
 - [Part Orientation](PART_ORIENTATION.md) - Orientation instructions for 3D printing
 - [On Suppliers](ON_SUPPLIERS.md) - Discussion of how to source parts for this assembly
+- [Optional modifications](MODS/README.md) - Optional components that enhance the functionality
 - [Acknowledgements](ACKNOWLEDGEMENTS.md) - Acknowledgements of other authors included either for reference or inspiration
 - TODO: Adjust table of contents as needed
 
